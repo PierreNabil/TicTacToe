@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1425283680 source:d:\programming\c++ libraries\ccc_msw.cpp
+	<cmath>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	"ccc_msw.h"
+
+1425283686 d:\programming\c++ libraries\ccc_msw.h
+	<string>
+	<windows.h>
+	"ccc_shap.h"
+
+1425283758 d:\programming\c++ libraries\ccc_shap.h
+	<string>
+
+1425283690 source:d:\programming\c++ libraries\ccc_shap.cpp
+	<cstdio>
+	"ccc_shap.h"
+
+1523821195 source:d:\projects\c++\tic-tac-toe\main.cpp
+	<ccc_win.h>
+	<vector>
+
